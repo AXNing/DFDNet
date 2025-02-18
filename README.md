@@ -1,4 +1,4 @@
-# DGDNet: Dynamic Guidance De-Flare Network
+# DFDNet: Dynamic Frequency-Guided De-Flare Network
 
 
 

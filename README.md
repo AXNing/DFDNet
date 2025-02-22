@@ -63,10 +63,11 @@ Download the Flare7k++ dataset [here](https://github.com/ykdai/Flare7K).
 
 
 ### Training model
+**Pre-training models**
+
+We provide some pre-training models, please click [here](https://drive.google.com/drive/folders/1Jxfw0Cy8ob-SRLf4PqqzzfXHhTVEpRTP?usp=sharing).
 
 **Training**
-
-
 
 Please use:
 

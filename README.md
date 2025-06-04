@@ -23,12 +23,8 @@
     pip install -r requirements.txt
     ```
 
-1. Install Flare7K<br>
-    Please run the following commands in the **Flare7K root path** to install Flare7K:<br>
 
-    ```bash
-    python setup.py develop
-    ```
+
 
 ### Data Download
 

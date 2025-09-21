@@ -6,7 +6,7 @@
 
 ### Update
 
-- **2024.12.29**: This repo is created.
+- **2025.4.01**: This repo is created.
 
 ### The overall framework of the DFDNet
 ![](https://github.com/AXNing/DFDNet/blob/main/framework.jpg)
